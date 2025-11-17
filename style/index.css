@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  /* background-color:rgb(240, 193, 131); */
+  /* background-image:url(./images/WhatsApp\ Image\ 2025-11-12\ at\ 14.41.05_5eaf433e.jpg); */
+  position: relative;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content:center ;
+  align-items: center;
+  /* padding-left: 0/; */
+} 
+.menue-list {
+  /* background-color: aqua; */
+  border: 1px solid #9a4435;
+  border-radius: 20px;
+  color: black;
+}
+p {
+  margin-bottom: -25px;
+  font-size: larger;
+  font-weight: 600;
+  color: #9a4435;
+}
