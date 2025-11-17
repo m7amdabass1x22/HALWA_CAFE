@@ -14,7 +14,7 @@ body {
   align-items: center;
   /* padding-left: 0/; */
   @media screen {
-    width: 767px;
+    max-width: 767px;
   }
 } 
 .menue-list {
