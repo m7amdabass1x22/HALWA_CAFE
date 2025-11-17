@@ -13,6 +13,9 @@ body {
   justify-content:center ;
   align-items: center;
   /* padding-left: 0/; */
+  @media screen {
+    width: 767px;
+  }
 } 
 .menue-list {
   /* background-color: aqua; */
